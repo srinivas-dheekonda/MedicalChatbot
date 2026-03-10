@@ -1,0 +1,11 @@
+{
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+        "langchain",
+        "schema",
+        "runnable",
+        "RunnableBinding"
+    ],
+    "kwargs": {
+        "bound": 
